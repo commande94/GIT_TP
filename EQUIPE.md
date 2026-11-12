@@ -2,7 +2,7 @@
 
 | Rôle | Nom Prénom | Pseudo GitHub |
 | --- | --- | --- |
-| collab-1 | HECTO | @HECTO |
+| collab-1 | Joaquim | @commande94 |
 | collab-2 | ... | ... |
 | collab-3 | ... | ... |
 
