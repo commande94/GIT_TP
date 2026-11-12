@@ -4,6 +4,12 @@
 - Ce que je connais déjà de Git : les commandes de base (add, commit, push, pull)
 - Ce que j'attends de cet atelier : apprendre à travailler en équipe avec Git, maîtriser les branches et les Pull Requests
 
+## Stash
+
+`git stash` permet de mettre de côté des modifications en cours sans les commiter.
+C'est utile quand une urgence arrive et qu'on doit changer de branche rapidement.
+On récupère ensuite son travail avec `git stash pop`.
+
 ## Quiz
 
 1. Juste après `git commit`, où se trouve mon commit ? Dans mon dépôt **local** (mon Codespace uniquement), GitHub ne le connaît pas encore.
