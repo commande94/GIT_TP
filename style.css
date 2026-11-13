@@ -6,6 +6,16 @@ h2 {
   color: green;
 }
 
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.dark h1,
+.dark h2 {
+  color: inherit;
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 1.4rem;
